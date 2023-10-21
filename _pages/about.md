@@ -19,8 +19,16 @@ selected_papers: false # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page
 ---
 
-I am a third year Computer Science PhD student at the University of Southern California, conducting research in the [Autonomous Networks Research Group](https://anrg.usc.edu/www/) under the guidance of [Prof. Bhaskar Krishnamachari](https://ceng.usc.edu/~bkrishna/). My research interests are mainly in Computer Networks and Blockchain.
+I am a third-year Computer Science PhD student at the University of Southern California, and a member of the [Autonomous Networks Research Group](https://anrg.usc.edu/www/).
+My advisor is [Prof. Bhaskar Krishnamachari](https://ceng.usc.edu/~bkrishna/).
 
-I received my B.Tech. in Information Technology from [IIIT Allahabad](https://iiita.ac.in/) in 2018. Between then and joining USC, I worked as a software engineer at [Arista Networks](https://www.arista.com/), where I was part of the routing team.
+My research primarily focuses on designing dependable decentralized systems, with a parallel emphasis on developing the network infrastructure to better support them.
+To achieve this, I explore the use of methods from diverse disciplines such as distributed systems, applied cryptography, mechanism design and network science.
 
-Many eons ago, I used to write, mainly in my mother tongue [Malayalam](https://en.wikipedia.org/wiki/Malayalam). Most of my works can be found at [my personal blog](https://sulyab.wordpress.com/).
+I received my B.Tech. in Information Technology from [IIIT Allahabad](https://iiita.ac.in/) in 2018.
+Between then and joining USC, I worked as a software engineer at [Arista Networks](https://www.arista.com/), where I was part of the routing team.
+
+<!--
+Many eons ago, I used to write, mainly in my mother tongue [Malayalam](https://en.wikipedia.org/wiki/Malayalam).
+Most of my works can be found at [my personal blog](https://sulyab.wordpress.com/).
+-->
