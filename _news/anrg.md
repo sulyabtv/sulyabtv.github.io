@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-I have officially joined the [Autonomous Networks Research Group](https://anrg.usc.edu/www/)!
+I have joined the [Autonomous Networks Research Group](https://anrg.usc.edu/www/)!
