@@ -2,24 +2,34 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href='#'>Affiliations</a>. Address. Contacts. Motto. Etc.
+# subtitle: <a href='#'>Affiliations</a>. Address. Contacts. Moto. Etc.
 
 profile:
   align: right
   image: prof_pic.jpg
   image_circular: false # crops the image to make it circular
-  more_info: >
-    <p>555 your office number</p>
-    <p>123 your address street</p>
-    <p>Your City, State 12345</p>
+  # address: >
+  #   <p>555 your office number</p>
+  #   <p>123 your address street</p>
+  #   <p>Your City, State 12345</p>
 
-news: true # includes a list of news items
-selected_papers: true # includes a list of papers marked as "selected={true}"
-social: true # includes social icons at the bottom of the page
+news: true  # includes a list of news items
+latest_posts: false  # includes a list of the newest posts
+selected_papers: false # includes a list of papers marked as "selected={true}"
+social: true  # includes social icons at the bottom of the page
 ---
 
-Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
+I am a third-year Computer Science PhD student at the University of Southern California, and a member of the [Autonomous Networks Research Group](https://anrg.usc.edu/www/).
+My advisor is [Prof. Bhaskar Krishnamachari](https://ceng.usc.edu/~bkrishna/).
 
-Put your address / P.O. box / other info right below your picture. You can also disable any of these elements by editing `profile` property of the YAML header of your `_pages/about.md`. Edit `_bibliography/papers.bib` and Jekyll will render your [publications page](/al-folio/publications/) automatically.
+My research aims to strengthen the resilience and fairness of the internet's core infrastructure by advancing networking technologies that support decentralization and counteract consolidation.
+I am particularly interested in studying the cloud-centric internet to understand its dynamics and develop strategies that promote a more open and decentralized ecosystem.
+To achieve these goals, I draw on methods from disciplines such as internet measurement, distributed systems, and applied cryptography.
 
-Link to your social media connections, too. This theme is set up to use [Font Awesome icons](https://fontawesome.com/) and [Academicons](https://jpswalsh.github.io/academicons/), like the ones below. Add your Facebook, Twitter, LinkedIn, Google Scholar, or just disable all of them.
+I received my B.Tech. in Information Technology from [IIIT Allahabad](https://iiita.ac.in/) in 2018.
+Between then and joining USC, I worked as a software engineer at [Arista Networks](https://www.arista.com/), where I was part of the routing team.
+
+<!--
+Many eons ago, I used to write, mainly in my mother tongue [Malayalam](https://en.wikipedia.org/wiki/Malayalam).
+Most of my works can be found at [my personal blog](https://sulyab.wordpress.com/).
+-->
