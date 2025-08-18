@@ -1,10 +1,10 @@
 ---
 layout: post
-date: 2025-07-15
+date: 2025-08-18
 inline: true
 related_posts: false
 ---
 
-New preprint:
-[Towards a Non-Binary View of IPv6 Adoption](https://arxiv.org/abs/2507.11678) is now available at arXiv.
-See our blog post [here](https://ant.isi.edu/blog/?p=2236) for a brief description.
+New paper:
+*Towards a Non-Binary View of IPv6 Adoption* will appear at the ACM Internet Measurement Conference (IMC) 2025.
+Read the [preprint](https://arxiv.org/abs/2507.11678) on arXiv, or check out our [blog post](https://ant.isi.edu/blog/?p=2236) for a brief overview.

@@ -30,9 +30,8 @@ latest_posts:
 I am a fifth year Computer Science PhD student at the University of Southern California, and a member of the [ANT Lab](https://ant.isi.edu/).
 My advisor is [Prof. John Heidemann](https://ant.isi.edu/~johnh/).
 
-My research centers on Internet measurement and protocol design to support decentralization and counteract consolidation on the Internet. 
+My research revolves around understanding and counteracting Internet centralization and enhancing user privacy, using Internet measurement and protocol design as tools. 
 Recently, I have been studying IPv6 adoption and the privacy risks and opportunities created by the shift to IPv6.
-<!-- To achieve these goals, I draw on methods from disciplines such as internet measurement, distributed systems, and applied cryptography. -->
 Previously, I focused on decentralized reputation mechanisms for blockchain applications.
 
 I received my B.Tech. in Information Technology from [IIIT Allahabad](https://iiita.ac.in/) in 2018.
