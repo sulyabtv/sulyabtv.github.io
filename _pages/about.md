@@ -30,9 +30,10 @@ latest_posts:
 I am a fifth year Computer Science PhD student at the University of Southern California, and a member of the [ANT Lab](https://ant.isi.edu/).
 My advisor is [Prof. John Heidemann](https://ant.isi.edu/~johnh/).
 
-My research revolves around understanding and counteracting Internet centralization and enhancing user privacy, using Internet measurement and protocol design as tools. 
-Recently, I have been studying IPv6 adoption and the privacy risks and opportunities created by the shift to IPv6.
-Previously, I focused on decentralized reputation mechanisms for blockchain applications.
+My research uses Internet measurement to understand the real-world effects of the Internet's constant evolution.
+This evolution may be driven by new protocols and standards (such as the shift from IPv4 to IPv6), changes in deployment practices (such as the rise of cloud computing), or the emergence of new applications (such as Web3).
+I focus on developing methods to measure how these changes are adopted in practice and on understanding the unexpected interactions between old and new mechanisms, with implications for usability, security, and privacy.
+Recently, I have been studying the subtle risks of DNS coexisting with alternative naming systems, as well as IPv6 adoption and the privacy risks and opportunities created by the shift to IPv6.
 
 I received my B.Tech. in Information Technology from [IIIT Allahabad](https://iiita.ac.in/) in 2018.
 Between then and joining USC, I worked as a software engineer at [Arista Networks](https://www.arista.com/), where I was part of the routing team.
