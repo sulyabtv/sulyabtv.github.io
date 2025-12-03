@@ -1,28 +1,35 @@
 @inproceedings{thottungal_valapu_towards_2025,
+  location    = {New York, {NY}, {USA}},
   title       = {Towards a Non-Binary View of {IPv}6 Adoption},
+  isbn        = {979-8-4007-1860-1},
+  url         = {https://dl.acm.org/doi/10.1145/3730567.3764467},
+  doi         = {10.1145/3730567.3764467},
   series      = {{IMC} '25},
-  abstract    = {Twelve years have passed since World {IPv}6 Launch Day, but what is the current state of {IPv}6 deployment? Prior work has examined {IPv}6 status as a binary: can you use {IPv}6, or not? As deployment increases we must consider a more nuanced, non-binary perspective on {IPv}6: how much and often can a user or a service use {IPv}6? We consider this question as a client, server, and cloud provider. Considering the client's perspective, we observe user traffic. We see that the fraction of {IPv}6 traffic a user sends varies greatly, both across users and day-by-day, with a standard deviation of over 15\%. We show this variation occurs for two main reasons. First, {IPv}6 traffic is primarily human-generated, thus showing diurnal patterns. Second, some services are {IPv}6-forward and others {IPv}6-laggards, so as users do different things their fraction of {IPv}6 varies. We look at server-side {IPv}6 adoption in two ways. First, we expand analysis of web services to examine how many are only partially {IPv}6 enabled due to their reliance on {IPv}4-only resources. Our findings reveal that only 12.5\% of top 100k websites qualify as fully {IPv}6-ready. Finally, we examine cloud support for {IPv}6. Although all clouds and {CDNs} support {IPv}6, we find that tenant deployment rates vary significantly across providers. We find that ease of enabling {IPv}6 in the cloud is correlated with tenant {IPv}6 adoption rates, and recommend best practices for cloud providers to improve {IPv}6 adoption. Our results suggest {IPv}6 deployment is growing, but many services lag, presenting a potential for improvement.},
-  booktitle   = {2025 {ACM} Internet Measurement Conference ({IMC} '25)},
+  abstract    = {Twelve years have passed since World {IPv}6 Launch Day, but what is the current state of {IPv}6 deployment? Prior work has examined {IPv}6 status as a binary: can a user do any {IPv}6? As deployment increases, we must consider a more nuanced, non-binary perspective on {IPv}6: how much and often can a user or a service use {IPv}6? We consider this question as a client, server, and cloud provider. Considering the client's perspective, we observe user traffic. We see that the fraction of {IPv}6 traffic a user sends varies greatly, both across users and day-by-day, with a standard deviation of over 15\%. We show this variation occurs for two main reasons. First, {IPv}6 traffic is primarily human-generated, thus showing diurnal patterns. Second, some services lead with full {IPv}6 adoption, while others lag with partial or no support, so as users do different things their fraction of {IPv}6 varies. We look at server-side {IPv}6 adoption in two ways. First, we expand analysis of web services to examine how many are only partially {IPv}6 enabled due to their reliance on {IPv}4-only resources. Our findings reveal that only 12.6\% of top 100k websites qualify as fully {IPv}6-ready. Finally, we examine cloud support for {IPv}6. Although all clouds and {CDNs} support {IPv}6, we find that tenant deployment rates vary significantly across providers. We find that ease of enabling {IPv}6 in the cloud is correlated with tenant {IPv}6 adoption rates, and recommend best practices for cloud providers to improve {IPv}6 adoption. Our results suggest {IPv}6 deployment is growing, but many services lag, presenting a potential for improvement.},
+  pages       = {727--745},
+  booktitle   = {Proceedings of the 2025 {ACM} Internet Measurement Conference},
   publisher   = {Association for Computing Machinery},
   author      = {Thottungal Valapu, Sulyab and Heidemann, John},
-  date        = {2025-10},
+  date        = {2025-11-21},
   year        = {2025},
-  keywords    = {Computer Science - Networking and Internet Architecture},
-  note        = {to appear},
   bibtex_show = {true},
-  pdf         = {arxiv2025_nonbinary.pdf}
+  pdf         = {imc2025_nonbinary.pdf}
 }
 
-@inproceedings{sotiropoulos_crowd-sft_2025,
-  title       = {Crowd-{SFT}: Crowdsourcing for {LLM} Alignment},
-  abstract    = {Large Language Models ({LLMs}) increasingly rely on Supervised Fine-Tuning ({SFT}) and Reinforcement Learning from Human Feedback ({RLHF}) to align model responses with human preferences. While {RLHF} employs a reinforcement learning approach with a separate reward model, {SFT} uses human-curated datasets for supervised learning. Both approaches traditionally depend on small, vetted groups of annotators, making them costly, prone to bias, and limited in scalability. We propose an open, crowd-sourced fine-tuning framework that addresses these limitations by enabling broader feedback collection for {SFT} without extensive annotator training. Our framework promotes incentive fairness via a point-based reward system correlated with Shapley values and guides model convergence through iterative model updates. Our multi-model selection framework demonstrates up to a 55\% reduction in target distance over single-model selection, enabling subsequent experiments that validate our point-based reward mechanism's close alignment with Shapley values (a well-established method for attributing individual contributions) thereby supporting fair and scalable participation.},
-  eventtitle  = {2025 {IEEE} International Conference on Decentralized Applications and Infrastructures (DAPPS)},
-  booktitle   = {2025 {IEEE} International Conference on Decentralized Applications and Infrastructures (DAPPS)},
+@inproceedings{sotiropoulos_poster_2025,
+  title       = {Poster: Crowd-{SFT}: Crowdsourcing for {LLM} Alignment},
+  url         = {https://ieeexplore.ieee.org/document/11143104},
+  doi         = {10.1109/DAPPS65174.2025.00026},
+  shorttitle  = {Crowd-{SFT}},
+  abstract    = {Large Language Models ({LLMs}) rely on Supervised Fine-Tuning ({SFT}) and Reinforcement Learning from Human Feedback ({RLHF}) to align with human preferences. Yet both approaches typically depend on small, costly, and potentially biased annotator pools. We introduce a scalable, crowd-sourced {SFT} framework that enables broader participation without intensive annotator training. Our method leverages iterative, competitive model updates and a point-based reward mechanism correlated with Shapley values to ensure fair attribution of contributions. Simulations show that our multi-model selection process improves convergence by up to 55\% over traditional {SFT}. Additionally, our point-based system closely tracks individual impact and scales effectively across diverse grouping and evaluation strategies. This work offers a practical, incentive-aligned path for decentralized {LLM} alignment.},
+  pages       = {135--136},
+  booktitle   = {2025 {IEEE} International Conference on Decentralized Applications and Infrastructures ({DAPPS})},
   author      = {Sotiropoulos, Alex and Thottungal Valapu, Sulyab and Lei, Linus and Coleman, Jared and Krishnamachari, Bhaskar},
+  date        = {2025-07},
+  keywords    = {Convergence, Crowdsourcing, Decentralized applications, Iterative methods, Large language models, Large Language Models, Reinforcement learning, {SFT}, Tournament-Based Selection, Training},
   year        = {2025},
   bibtex_show = {true},
-  pdf         = {dapps2025_crowdsft.pdf},
-  note        = {Poster}
+  pdf         = {dapps2025_crowdsft.pdf}
 }
 
 @inproceedings{desai_geofeed_2025,

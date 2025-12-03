@@ -1,10 +1,10 @@
 ---
 layout: post
-date: 2025-08-18
+date: 2025-11-21
 inline: true
 related_posts: false
 ---
 
 New paper:
-*Towards a Non-Binary View of IPv6 Adoption* will appear at the ACM Internet Measurement Conference (IMC) 2025.
-Read the [preprint](https://arxiv.org/abs/2507.11678) on arXiv, or check out our [blog post](https://ant.isi.edu/blog/?p=2236) for a brief overview.
+[Towards a Non-Binary View of IPv6 Adoption](https://dl.acm.org/doi/10.1145/3730567.3764467) is now available in the conference proceedings of ACM Internet Measurement Conference (IMC) 2025.
+Alternately, you can access the arXiv version [here](https://arxiv.org/abs/2507.11678), or check out our [blog post](https://ant.isi.edu/blog/?p=2281) for a brief overview.
