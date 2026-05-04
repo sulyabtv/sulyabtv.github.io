@@ -16,13 +16,6 @@ ninja.data = [{
           handler: () => {
             window.location.href = "/publications/";
           },
-        },{id: "nav-cv",
-          title: "cv",
-          description: "This is a description of the page. You can modify it in &#39;_pages/cv.md&#39;. You can also change or remove the top pdf download button.",
-          section: "Navigation",
-          handler: () => {
-            window.location.href = "/assets/pdf/sulyab_cv.pdf";
-          },
         },{id: "post-a-post-with-plotly-js",
         
           title: "a post with plotly.js",
@@ -387,6 +380,9 @@ ninja.data = [{
           section: "News",},{id: "news-new-paper-towards-a-non-binary-view-of-ipv6-adoption-is-now-available-in-the-conference-proceedings-of-acm-internet-measurement-conference-imc-2025-alternately-you-can-access-the-arxiv-version-here-or-check-out-our-blog-post-for-a-brief-overview",
           title: 'New paper: Towards a Non-Binary View of IPv6 Adoption is now available in...',
           description: "",
+          section: "News",},{id: "news-i-will-be-joining-verisign-as-a-research-intern-in-summer-2026-working-on-dns-security",
+          title: 'I will be joining Verisign as a research intern in Summer 2026, working...',
+          description: "",
           section: "News",},{id: "projects-project-1",
           title: 'project 1',
           description: "with background image",
@@ -432,19 +428,22 @@ ninja.data = [{
           description: "another project with an image 🎉",
           section: "Projects",handler: () => {
               window.location.href = "/projects/9_project.html";
+            },},{id: "teachings-data-science-fundamentals",
+          title: 'Data Science Fundamentals',
+          description: "This course covers the foundational aspects of data science, including data collection, cleaning, analysis, and visualization. Students will learn practical skills for working with real-world datasets.",
+          section: "Teachings",handler: () => {
+              window.location.href = "/teachings/data-science-fundamentals.html";
+            },},{id: "teachings-introduction-to-machine-learning",
+          title: 'Introduction to Machine Learning',
+          description: "This course provides an introduction to machine learning concepts, algorithms, and applications. Students will learn about supervised and unsupervised learning, model evaluation, and practical implementations.",
+          section: "Teachings",handler: () => {
+              window.location.href = "/teachings/introduction-to-machine-learning.html";
             },},{
         id: 'social-email',
         title: 'email',
         section: 'Socials',
         handler: () => {
           window.open("mailto:%73%75%6C%79%61%62.%74%76@%75%73%63.%65%64%75", "_blank");
-        },
-      },{
-        id: 'social-github',
-        title: 'GitHub',
-        section: 'Socials',
-        handler: () => {
-          window.open("https://github.com/sulyabtv", "_blank");
         },
       },{
         id: 'social-linkedin',
@@ -459,6 +458,13 @@ ninja.data = [{
         section: 'Socials',
         handler: () => {
           window.open("https://scholar.google.com/citations?user=BXQYcjEAAAAJ", "_blank");
+        },
+      },{
+        id: 'social-github',
+        title: 'GitHub',
+        section: 'Socials',
+        handler: () => {
+          window.open("https://github.com/sulyabtv", "_blank");
         },
       },{
       id: 'light-theme',
