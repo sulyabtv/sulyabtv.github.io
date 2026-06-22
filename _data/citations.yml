@@ -1,12 +1,12 @@
 metadata:
-  last_updated: '2026-06-10'
+  last_updated: '2026-06-22'
 papers:
   BXQYcjEAAAAJ:9yKSN-GCB0IC:
     citations: 3
     title: 'DARSAN: A Decentralized Review System Suitable for NFT Marketplaces'
     year: '2023'
   BXQYcjEAAAAJ:IjCSPb-OGe4C:
-    citations: 1
+    citations: 2
     title: 'Crowd-SFT: Crowdsourcing for LLM Alignment'
     year: '2025'
   BXQYcjEAAAAJ:UeHWp8X0CEIC:
@@ -14,7 +14,7 @@ papers:
     title: Geofeed Adoption and Authentication
     year: '2025'
   BXQYcjEAAAAJ:W7OEmFMy1HYC:
-    citations: 4
+    citations: 6
     title: Towards a Non-Binary View of IPv6 Adoption
     year: '2025'
   BXQYcjEAAAAJ:u5HHmVD_uO8C:
@@ -26,6 +26,6 @@ papers:
     title: 'Zombies in Alternate Realities: The Afterlife of Domain Names in DNS Integrations'
     year: '2026'
   BXQYcjEAAAAJ:zYLM7Y9cAGgC:
-    citations: 5
+    citations: 7
     title: Reward-based Blockchain Infrastructure for 3D IC Supply Chain Provenance
     year: '2025'
