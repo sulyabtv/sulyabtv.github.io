@@ -1,5 +1,5 @@
 metadata:
-  last_updated: '2026-06-26'
+  last_updated: '2026-06-29'
 papers:
   BXQYcjEAAAAJ:9yKSN-GCB0IC:
     citations: 3
@@ -25,10 +25,6 @@ papers:
     citations: 0
     title: A Survey of Probabilistic Micropayment Schemes
     year: Unknown Year
-  BXQYcjEAAAAJ:ufrVoPGSRksC:
-    citations: 0
-    title: 'Zombies in Alternate Realities: The Afterlife of Domain Names in DNS Integrations'
-    year: '2026'
   BXQYcjEAAAAJ:zYLM7Y9cAGgC:
     citations: 7
     title: Reward-based Blockchain Infrastructure for 3D IC Supply Chain Provenance
