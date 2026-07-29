@@ -1,5 +1,5 @@
 metadata:
-  last_updated: '2026-07-13'
+  last_updated: '2026-07-29'
 papers:
   BXQYcjEAAAAJ:9yKSN-GCB0IC:
     citations: 3
@@ -26,6 +26,6 @@ papers:
     title: A Survey of Probabilistic Micropayment Schemes
     year: Unknown Year
   BXQYcjEAAAAJ:zYLM7Y9cAGgC:
-    citations: 7
+    citations: 8
     title: Reward-based Blockchain Infrastructure for 3D IC Supply Chain Provenance
     year: '2025'
