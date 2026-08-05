@@ -1,5 +1,5 @@
 metadata:
-  last_updated: '2026-07-29'
+  last_updated: '2026-08-05'
 papers:
   BXQYcjEAAAAJ:9yKSN-GCB0IC:
     citations: 3
@@ -7,7 +7,7 @@ papers:
     year: '2023'
   BXQYcjEAAAAJ:IjCSPb-OGe4C:
     citations: 3
-    title: 'Crowd-SFT: Crowdsourcing for LLM Alignment'
+    title: 'Crowd-SFT: Crowdsourcing for LLM alignment'
     year: '2025'
   BXQYcjEAAAAJ:UeHWp8X0CEIC:
     citations: 0
@@ -15,7 +15,7 @@ papers:
     year: '2025'
   BXQYcjEAAAAJ:W7OEmFMy1HYC:
     citations: 7
-    title: Towards a Non-Binary View of IPv6 Adoption
+    title: Towards a non-binary view of IPv6 adoption
     year: '2025'
   BXQYcjEAAAAJ:_FxGoFyzp5QC:
     citations: 0
