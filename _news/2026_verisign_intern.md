@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-I will be joining Verisign as a research intern in Summer 2026, working on DNS security.
+I will be joining Verisign as a research intern in Summer 2026, evaluating the security of DNS tokenization.
